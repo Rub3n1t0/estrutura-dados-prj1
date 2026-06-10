@@ -6,7 +6,6 @@ from pathlib import Path
 
 from estoque import criar_estoque_com_dados
 
-
 ARQUIVO_DADOS = Path("dados.json")
 ARQUIVO_LOG = Path("operacoes.log")
 
